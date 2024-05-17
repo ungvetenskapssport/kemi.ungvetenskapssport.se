@@ -1,2 +1,1 @@
-# kemi.ungvetenskapssport.se
-Ung Vetenskapssports Kemisters hemsida
+# UVS Kemisters hemsida
